@@ -34,5 +34,4 @@
 | File | Location | Purpose |
 |------|----------|---------|
 | `.github/copilot-instructions.md` | Project root | Guide AI agent behavior |
-| `.cursor/rules/agent.mdc` | `.cursor/rules/` | MCP agent rules (Cursor IDE) |
-| `.cursor/mcp.json` | `.cursor/` | MCP server connection info |
+
